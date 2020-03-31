@@ -8,7 +8,7 @@
 <template>
 	
   <div class="goods" id="goods" name="goods">
-		<el-backtop target=".page-component__scroll .el-scrollbar__wrap"></el-backtop>
+		
     <!-- 面包屑 -->
     <div class="breadcrumb">
       <el-breadcrumb separator-class="el-icon-arrow-right">

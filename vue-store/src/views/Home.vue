@@ -7,7 +7,7 @@
  -->
 <template>
 	<div class="home" id="home" name="home">
-		<el-backtop target=".page-component__scroll .el-scrollbar__wrap">444</el-backtop>
+		
 		<!-- 轮播图 -->
 		<!--    <div class="block">
       <el-carousel height="460px">
